@@ -1,0 +1,10 @@
+# Office temporary and lock files
+~$*
+*.tmp
+# Tableau local files
+*.twbr
+Tableau Backups/
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
